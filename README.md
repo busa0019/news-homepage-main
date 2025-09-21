@@ -30,12 +30,13 @@ Users should be able to:
 
 ### Screenshots
 - Desktop: `./design/mydesktop-preview.png`
-- Mobile: `./design/mymobile-preview.png`
+- Mobile:  `./design/mymobile-preview.png`
+
 
 
 ### Links
-- Solution URL: `https://your-solution-url.com`
-- Live Site URL: `https://your-live-site-url.com`
+- Github: `https://github.com/busa0019/news-homepage-main`
+- Live Site URL: `https://busa0019.github.io/news-homepage-main/`
 
 ## Features
 - Responsive header with logo and navigation
@@ -73,7 +74,7 @@ Users should be able to:
 │       └── image-gaming-growth.jpg
 ├── design/
 │   ├── mydesktop-preview.png      
-│   └── mymobile-design.png        
+│   └── mymobile-preview.png         
 └── script.js
 ```
 
@@ -135,8 +136,8 @@ overlay.addEventListener('click', () => {
 ## How to run locally
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/news-homepage.git
-   cd news-homepage
+   git clone https://github.com/busa0019/news-homepage-main.git
+   cd news-homepage-main
    ```
 2. Open `index.html` in your browser  
    For a nicer dev experience, you can use the Live Server extension in VS Code.
@@ -149,8 +150,8 @@ overlay.addEventListener('click', () => {
 - Add unit tests for menu toggling
 
 ## Author
-- Faoziyyah Busari (Faozee)
-- Frontend Mentor: `@Faozee`
+- Faoziyyah (Faozee)
+- Frontend Mentor: `https://www.frontendmentor.io/profile/Faozeee`
 
 ## Acknowledgments
 Thanks to Frontend Mentor for the challenge and assets. Inspired by community solutions and discussions.
