@@ -29,14 +29,17 @@ Users should be able to:
 - Read highlighted “New” articles and featured stories
 
 ### Screenshots
-- Desktop: `./design/mydesktop-preview.png`
-- Mobile:  `./design/mymobile-preview.png`
 
+**Desktop**
+![Desktop preview](./design/mydesktop-preview.png)
 
+**Mobile**
+![Mobile preview](./design/mymobile-preview.png)
 
 ### Links
-- Github: `https://github.com/busa0019/news-homepage-main`
-- Live Site URL: `https://busa0019.github.io/news-homepage-main/`
+- **GitHub Repo:** https://github.com/busa0019/news-homepage-main
+- **Live Site:** https://busa0019.github.io/news-homepage-main/
+- **Challenge:** https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
 ## Features
 - Responsive header with logo and navigation
@@ -73,8 +76,8 @@ Users should be able to:
 │       ├── image-top-laptops.jpg
 │       └── image-gaming-growth.jpg
 ├── design/
-│   ├── mydesktop-preview.png      
-│   └── mymobile-preview.png         
+│   ├── mydesktop-preview.png
+│   └── mymobile-preview.png
 └── script.js
 ```
 
@@ -139,7 +142,7 @@ overlay.addEventListener('click', () => {
    git clone https://github.com/busa0019/news-homepage-main.git
    cd news-homepage-main
    ```
-2. Open `index.html` in your browser  
+2. Open `index.html` in your browser.
    For a nicer dev experience, you can use the Live Server extension in VS Code.
 
 ## Possible improvements
@@ -150,8 +153,8 @@ overlay.addEventListener('click', () => {
 - Add unit tests for menu toggling
 
 ## Author
-- Faoziyyah (Faozee)
-- Frontend Mentor: `https://www.frontendmentor.io/profile/Faozeee`
+- **Faoziyyah (Faozeee)**
+- **Frontend Mentor:** https://www.frontendmentor.io/profile/Faozeee
 
 ## Acknowledgments
 Thanks to Frontend Mentor for the challenge and assets. Inspired by community solutions and discussions.
